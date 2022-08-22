@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "895481288351",
+    "project_id": "projectmang-46c88",
+    "storage_bucket": "projectmang-46c88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895481288351:android:85f7c25dc6361c48d374aa",
+        "android_client_info": {
+          "package_name": "com.messieyawo.projectmang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895481288351-n9s8s6tnc3u3a47tbsj8c5ae4cglmihs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFv-NKoNCHKs6EEbrhMyCVrmso0aKd4GM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895481288351-n9s8s6tnc3u3a47tbsj8c5ae4cglmihs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
